@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+
+}
+
+h1 {
+    color: black ;
+}
+
+h3 {
+    color: black ;
+    font-size: 40px;
+}
+
+.nomeVisitante {
+    color: black;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botao {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+}
